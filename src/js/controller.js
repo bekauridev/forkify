@@ -128,4 +128,3 @@ const init = function () {
 };
 init();
 
-console.log(`website is completed good job 🔴`)
